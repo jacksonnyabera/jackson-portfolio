@@ -30,11 +30,31 @@ A Python command-line application for managing personal expenses using JSON data
 
 ### M-Pesa Subscription System
 
+🚧 **Status: In Development**
+
 A full-stack application designed to integrate M-Pesa payments with subscription-based services.
+
+#### Planned Features
+
+- User registration
+- M-Pesa payment integration
+- Subscription management
+- PostgreSQL database
+- Payment confirmation
 
 ### Medical Equipment Management System
 
-A healthcare technology project focused on tracking medical equipment and maintenance information.
+📌 **Status: Planned Project**
+
+A healthcare technology system designed to help healthcare facilities track medical equipment, maintenance schedules, and equipment status.
+
+#### Planned Features
+
+- Medical equipment registration
+- Equipment status tracking
+- Maintenance records
+- Department management
+- Maintenance reminders
 
 ## Technologies Used
 

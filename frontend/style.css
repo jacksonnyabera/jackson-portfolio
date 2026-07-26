@@ -463,3 +463,14 @@ footer {
 .social-links a:hover {
     color: #0369a1;
 }
+
+.project-status {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding: 5px 12px;
+    border-radius: 15px;
+    background-color: #fef3c7;
+    color: #92400e;
+    font-size: 14px;
+    font-weight: bold;
+}
